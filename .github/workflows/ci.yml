@@ -34,4 +34,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ toLower(Rose533) }}/flask-test:v1
+          tags: ghcr.io/rose533/flask-test:v1
